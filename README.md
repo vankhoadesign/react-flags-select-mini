@@ -1,8 +1,4 @@
-# react-flags-select
-
-[![Travis][build-badge]][build]
-[![npm package][npm-badge]][npm]
-[![Coveralls][coveralls-badge]][coveralls]
+# react-flags-select-mini
 
 A customizable svg flags select components for React Js.
 
