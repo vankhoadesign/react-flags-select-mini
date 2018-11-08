@@ -6,8 +6,6 @@
 
 A customizable svg flags select components for React Js.
 
-## Demo and Example
-Live demo: [ekwonye-richard.github.io/react-flags-select/](https://ekwonye-richard.github.io/react-flags-select/)
 
 ## Installation
 The package can be installed via NPM:
@@ -33,7 +31,7 @@ import 'react-flags-select-mini/scss/react-flags-select.scss';
     <ReactFlagsSelect />
 ```
 
-All country Codes: [Country Codes](https://github.com/ekwonye-richard/react-flags-select/blob/master/src/countries.js)
+All country Codes: [Country Codes](https://github.com/vankhoadesign/react-flags-select-mini/blob/master/src/countries.js)
 
 ### Default Country
 
@@ -215,13 +213,4 @@ You can dynamically update the selected country on the component using `updateSe
 ```
 
 ## License
-MIT Licensed. Copyright (c) Richard Ekwonye 2017.
-
-[build-badge]: https://img.shields.io/travis/ekwonye-richard/react-flags-select/master.svg?style=flat-square
-[build]: https://travis-ci.org/ekwonye-richard/react-flags-select
-
-[npm-badge]: https://img.shields.io/npm/v/react-flags-select.svg?style=flat-square
-[npm]: https://www.npmjs.org/package/react-flags-select
-
-[coveralls-badge]: https://img.shields.io/coveralls/ekwonye-richard/react-flags-select/master.svg?style=flat-square
-[coveralls]: https://coveralls.io/github/ekwonye-richard/react-flags-select
+MIT Licensed. Copyright (c) Khoa Nguyen 2018.
